@@ -1,0 +1,18 @@
+<data>  
+    <osadzony id="1">  
+        <imie name="imie">Marian</imie>
+        <nazwisko name="nazwisko">Kowalski</nazwisko>  
+        <plec name="plec">M</plec>
+        <adres name="adres">Śląska 21/37 12-423 Konin</adres>  
+        <zakladkarny name="zakladkarny">Sztum</zakladkarny>
+        <pobyt>10</pobyt>  
+    </osadzony>  
+    <osadzony id="2">  
+        <imie name="imie">Mariana</imie>
+        <nazwisko name="nazwisko">Kowalski</nazwisko>  
+        <plec name="plec">K</plec>
+        <adres name="adres">Śląska 21/37 12-423 Konin</adres>  
+        <zakladkarny name="zakladkarny">Czarne</zakladkarny>
+        <pobyt name="pobyt">15</pobyt>  
+    </osadzony>  
+</data>
